@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.header-part{
+    background-color: antiquewhite;
+    height: 680px;
+}
+.card-image{
+    background-color: #f5f7ff;
+    background-clip: content-box;
+    padding: 20px;
+    border-radius: 30px;
+}
+.card-fotter>.card-bttn{
+    position: relative;
+    left: 162px;
+}
+.card-area{
+    border-radius: 12px;
+}
+.ctn-img img{
+    width: 50%;
+}
+.line-highlight{
+    color:lightsalmon;
+}
+.line-highlight1{
+    color:midnightblue;
+}
+.text-highlight{
+    font-size: 50px;
+}
+.img-highlight{
+    height: 436px;
+}
+.bg-color{
+    background-color: antiquewhite;
+    height: auto;
+}
